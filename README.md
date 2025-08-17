@@ -1,6 +1,6 @@
 # Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
 
-#### NAME  : LOKESHWARAN .R 
+#### NAME  : LOKESHWARAN . R 
 #### REG NO : 212224220053
 ## AIM:
 
